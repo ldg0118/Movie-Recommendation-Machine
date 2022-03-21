@@ -13,13 +13,13 @@ IMDb Dataset
 
 Webscraping is also conducted to aggregate production factors, and the websites used are:
 Websites conducted web scraping:
-6. Movie production companies - box office history. The Numbers. (n.d.). Retrieved December 12, 2021, from https://www.the-numbers.com/movies/production-companies/#production_companies_overview=od1.
-7. Top 100 stars in leading roles at the worldwide box office. The Numbers. (n.d.). Retrieved December 12, 2021, from https://www.the-numbers.com/box-office-star-records/worldwide/lifetime-acting/top-grossing-leading-stars.
-8. Top grossing director at the worldwide box office. The Numbers. (n.d.). Retrieved December 12, 2021, from https://www.the-numbers.com/box-office-star-records/worldwide/lifetime-specific-technical-role/director.
+1. Movie production companies - box office history. The Numbers. (n.d.). Retrieved December 12, 2021, from https://www.the-numbers.com/movies/production-companies/#production_companies_overview=od1.
+2. Top 100 stars in leading roles at the worldwide box office. The Numbers. (n.d.). Retrieved December 12, 2021, from https://www.the-numbers.com/box-office-star-records/worldwide/lifetime-acting/top-grossing-leading-stars.
+3. Top grossing director at the worldwide box office. The Numbers. (n.d.). Retrieved December 12, 2021, from https://www.the-numbers.com/box-office-star-records/worldwide/lifetime-specific-technical-role/director.
 
 ## Project Structure
 1. Data Cleaning and Preprocessing
 2. Exploratory Data Analysis
 3. Movie Recommendation Machine built
 4. Rating Prediction System built
-5. Limitations and future improvements
+5. Limitations and Future Improvements
